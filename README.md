@@ -8,7 +8,7 @@ A simple CRUD app in the console, where you can store your library stock.
 
 ### 1. Step
 
-First clone the project with the next command: (Do not copy the _%_ symbol)
+First clone the project with the next command: (Do not copy the _$_ symbol)
 
 ```
 $ git clone https://github.com/wesdell/library_app.git
@@ -79,6 +79,14 @@ Make the following changes in these files.
 
 - In the connection.py file open the config object and put your database name in the database property.
 - In the book.py file put your table name in each SQL statement into the functions.
+
+### 5. Step
+
+Run application, and enjoy it.
+
+```
+$ pip main.py
+```
 
 ## Common functionalities:
 
