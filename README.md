@@ -4,6 +4,8 @@
 
 A simple CRUD app in the console, where you can store your library stock.
 
+![Console app preview](https://i.imgur.com/DnBgUSm.png)
+
 ## How to use:
 
 ### 1. Step
@@ -85,7 +87,7 @@ Make the following changes in these files.
 Run application, and enjoy it.
 
 ```
-$ pip main.py
+$ py main.py
 ```
 
 ## Common functionalities:
